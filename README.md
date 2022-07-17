@@ -8,7 +8,7 @@ Here you will find articles and slides that I have compiled and used for Graph N
 
 A graph in computer science is a way to structure data. It consists of nodes to represent entities, and edges that represent the relationship between these entities. Further, each node may also have a set of features that may describe that node. As for edges, they can either be undirected [two-way] or directed [one-way]. So to put this into picture graphs could be described as 
 
-- Graph=(Node, Egde)
+- Graph=(Node, Edge)
 
 ## Neural Networks
 
