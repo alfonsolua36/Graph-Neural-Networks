@@ -23,7 +23,7 @@ Convulational Neural Network is a method used to analyze different inputs. For i
 ![Convulational Neural Networks](images/cnn.jpeg)
 
 
-## Graphs
+### Graphs
  
 You can view an image as a special type of graph. It is a grid graph that is structured and every node is a pixel connected to its 8 nieghboring pixels. We then could perform the same process in a normal image to this graph and obtain the desired output. One application of this could be a dating app where individuals, represented as a node, have certain features that describe the individual. We can then use a CNN to gather information and find a suitable match. 
 
