@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here you will find articles and slides that I have compiled for Graph Neural Networks. In addition, there is CNN code that you can utilize. Make sure to install the dependencies before using it. 
+Here you will find articles and slides that I have compiled and used for Graph Neural Networks. These research papers were used for research during my time at UCLA. In addition, there is CNN code that you can utilize. Make sure to install the dependencies before using it. 
 
 ## Graph
 
