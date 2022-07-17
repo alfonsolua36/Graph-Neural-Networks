@@ -12,7 +12,7 @@ A graph in computer science is a way to structure data. It consists of nodes to 
 
 ## Neural Networks
 
-Neural Networks are able to learn a variety of desired outputs from several kind of inpute which can come in the form of numbers, stock prices, words, images, etc. This type of neural network works best for data that is structures, However, one downside is that neural networks struggle with graphs that don't have a fixed structure like the one above. This is where we stepped in and did research on things of this nature. 
+Neural Networks are able to learn a variety of desired outputs from several kind of inputs which can come in the form of numbers, stock prices, words, images, etc. This type of neural network works best for data that is structures, However, one downside is that neural networks struggle with graphs that don't have a fixed structure like the examples above. This is where we stepped in and did research on things of this nature. 
 
 ## Convulational Neural Networks
 
