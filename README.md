@@ -20,7 +20,8 @@ Neural Networks are able to learn a variety of desired outputs from several kind
 
 Common Convulational Neural Network is a method used to analyze different inputs. For instance, it could extract information on an image by looking at each indiviudal pixel and the region around it and aggregating the information. The next layer will then extracts information about that region and the process continues until the network is able to reason over different parts of the whole image. After that, the Neural Network utilizes linear combinations to identify the object.
 
-![Convulational Neural Networks](images/cnn.png)
+![Convulational Neural Networks](images/cnn.jpeg)
+
 
 ## Convultaional Neural Networks for graphs
  
